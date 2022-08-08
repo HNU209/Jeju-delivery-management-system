@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jeju/static/css/main.bdc83a74.css",
+    "main.js": "/jeju/static/js/main.93a9886c.js",
+    "static/js/787.9b08790a.chunk.js": "/jeju/static/js/787.9b08790a.chunk.js",
+    "service-worker.js": "/jeju/service-worker.js",
+    "index.html": "/jeju/index.html",
+    "main.bdc83a74.css.map": "/jeju/static/css/main.bdc83a74.css.map",
+    "main.93a9886c.js.map": "/jeju/static/js/main.93a9886c.js.map",
+    "787.9b08790a.chunk.js.map": "/jeju/static/js/787.9b08790a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc83a74.css",
+    "static/js/main.93a9886c.js"
+  ]
+}
