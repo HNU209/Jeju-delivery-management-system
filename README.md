@@ -2,4 +2,4 @@
 Visualization : https://hnu209.github.io/Jeju-delivery-management-system/
 
 
-![image](https://user-images.githubusercontent.com/79645167/183446305-7f4525ba-98e9-409c-89ac-64db4c2f9c31.png)
+![result_img](https://user-images.githubusercontent.com/79645167/183463417-44f1270f-c439-4750-9077-ffbf1cf7989d.PNG)
