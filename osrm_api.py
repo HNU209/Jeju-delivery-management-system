@@ -10,6 +10,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
+
 # routes step 추출 
 def get_res(point):
     session = requests.Session()
