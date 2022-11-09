@@ -69,7 +69,7 @@ export default function App() {
 
   useEffect(() => {
     async function getFetchData() {
-      const trip = await getData('jeju_delivery_trip_8');
+      const trip = await getData('jeju_delivery_trip');
       const item = await getData('items_information');
 
       if (trip && item) {
