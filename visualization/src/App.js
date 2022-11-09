@@ -65,7 +65,14 @@ export default function App() {
   const [trip, setTrip] = useState();
   const [item, setItem] = useState();
 
-  const color = randomColor(10);
+  const color = [
+    [255, 0, 0],
+    [0, 255, 0],
+    [0, 0, 255],
+    [255, 255, 0],
+    [0, 255, 255],
+    [255, 255, 255],
+  ];
 
   useEffect(() => {
     async function getFetchData() {

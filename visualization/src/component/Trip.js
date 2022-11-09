@@ -137,7 +137,9 @@ function renderLayers(props) {
   const color = props.color;
   const item = getPoint(time, props.item);
 
-  // console.log(color)
+  // console.log(item);
+
+  // console.log(color);
   const manageLoc = [[126.564177703051, 33.5139995322362]];
 
   return [
