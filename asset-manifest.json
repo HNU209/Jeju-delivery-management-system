@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jeju-delivery-management-system/static/css/main.b4b7763e.css",
+    "main.css": "/Jeju-delivery-management-system/static/css/main.06259a16.css",
     "main.js": "/Jeju-delivery-management-system/static/js/main.06fbf964.js",
     "static/js/483.f32025d8.chunk.js": "/Jeju-delivery-management-system/static/js/483.f32025d8.chunk.js",
     "service-worker.js": "/Jeju-delivery-management-system/service-worker.js",
     "index.html": "/Jeju-delivery-management-system/index.html",
-    "main.b4b7763e.css.map": "/Jeju-delivery-management-system/static/css/main.b4b7763e.css.map",
+    "main.06259a16.css.map": "/Jeju-delivery-management-system/static/css/main.06259a16.css.map",
     "main.06fbf964.js.map": "/Jeju-delivery-management-system/static/js/main.06fbf964.js.map",
     "483.f32025d8.chunk.js.map": "/Jeju-delivery-management-system/static/js/483.f32025d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4b7763e.css",
+    "static/css/main.06259a16.css",
     "static/js/main.06fbf964.js"
   ]
 }
