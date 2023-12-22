@@ -1,0 +1,52 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .home {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .header {
+    flex: 1;
+    display: flex;
+    background-color: #232527;
+    color: #EFEFEF;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .list {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .list > p {
+    font-size: 1.5rem;
+    margin: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .main {
+    flex: 9;
+    display: flex;
+  }
+  
+  .mapboxgl-ctrl-bottom-right {
+    display: none;
+  }
